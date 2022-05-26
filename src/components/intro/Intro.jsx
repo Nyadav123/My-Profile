@@ -21,14 +21,12 @@ const Intro = () => {
               <div className="i-title-item">Web Developer</div>
               <div className="i-title-item">Photographer</div>
               <div className="i-title-item">Writer</div>
-              <div className="i-title-item">Devouter</div>
-              <div className="i-title-item">Socialism</div>
+              <div className="i-title-item">Religious</div>
+              <div className="i-title-item">Socialist</div>
             </div>
           </div>
           <p className="i-desc">
-            I design and develop services for customers of all sizes,
-            specializing in creating stylish, modern websites, web services and
-            online stores.
+            I design and develop services for customers of specializing in creating stylish, modern websites, web services.
           </p>
         </div>
     
