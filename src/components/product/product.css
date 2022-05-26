@@ -1,5 +1,5 @@
 .p {
-  width: 30%;
+  width: 33%;
   height: 40vh;
   margin: 20px 10px;
   display: flex;
@@ -17,9 +17,10 @@
 }
 @media only screen and (max-width:480px)
 {
-  /* .p-img{
-    height: 140px;
-  } */
+  .p-img{
+    width: 160px !important;
+    height: 200px !important;
+  }
 }
 .p:hover .p-img {
   transform: translateY(-100%);
